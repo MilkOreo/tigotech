@@ -25,7 +25,7 @@ SECRET_KEY = '12#vba&4^(z^psj*0yz&1p(a6wi)kewhpnmjs1%p+10)0o&6u9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*',]
 
 
 # Application definition
